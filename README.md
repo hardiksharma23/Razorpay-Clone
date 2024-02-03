@@ -1,11 +1,10 @@
-⭐Razorpay Clone⭐
-<br>
-<br>
+# ⭐ Razorpay Clone ⭐
+
 It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
-<br>
-<br>
+
 ⭕ This Site is Fully Responsive
 
-📌 Tech Stack
-<br>
+
+## 📌 Tech Stack
 HTML  CSS  TailwindCSS 
+
